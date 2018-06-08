@@ -1,0 +1,96 @@
+
+William H Dieckman
+104 Bluebonnet Dr.
+Highland Village, TX  75077
+c.972.979.6785
+bdieckman@yahoo.com
+
+WORK EXPERIENCE
+Engineer
+April 2011 - present 
+Cotiviti Healthcare (formerly Connolly) | Frisco, Texas 
+Healthcare Services
+-Designed, implemented, and created business logic to process outbound and inbound client data and imaging files using Microsoft PowerShell, SQL, and FTP, moving functionality to support staff from engineering staff.
+-Designed and implemented system to evaluate billions of records nightly against ever-changing client requirements and business logic.  The end-result informs the audit staff, down-stream business logic, and validation check points to improve our client quality experience.
+-Created productivity reporting user interface allowing management to generate custom reporting on demand and in their desired format.  
+-Automated end-of-month productivity & payroll reporting, notification, and distribution, replacing the original manual process. 
+-Built letter generation tool utilizing table-base configuration of all letter elements and data versus Microsoft Word mail-merge templates to align with management and client needs.  
+-Built workflow reporting and email notifications allowing staff to QA their work ahead of final work submission.
+-Integrated contract rate data with repriced medical paid data to provide a more accurate picture of overpayments to audit team, accounting for differing payment methodology.  This provides the staff a more accurate picture of where they need to focus their efforts first.  
+-Worked with operational management to create concepts for possible new revenue opportunities. 
+
+________________________________________Lead Programmer/Analyst
+September 2003 – April 2011 
+Fort Dearborn Life Insurance/Dearborn National | Richardson, Texas 
+Insurance
+-Designed and implemented an insurance application tracking system using Microsoft Access/Excel/VBA/SQL Server. Tracked changes and activities tied to the customer applications. Exports and transmission of daily files to the client for their internal reporting. Automated generation of Final resolution and informational request letters using Crystal Reports based upon current state and business logic. Design, monitor, and support SSIS packages used for system data integration and business processes.
+-Provide PC desktop/LAN support for 120 users. Products supported include Novell networks, Lotus Notes, Citrix, SQL Server 2005, Microsoft Office, Microsoft Windows, Crystal Reports, and Local and Network printers.
+-Migrated databases from SQL Server 2000 to SQL Server 2005. Migrated existing DTS packages to SSIS as well.
+
+________________________________________Information Analyst/Programmer
+June 2003 - September 2003 
+Refocus Group | Dallas, Texas 
+Medical Devices and Supplies
+-Designed and implemented an Microsoft Access database used for the collection and analysis of clinical trial data for the Federal Drug Administration (FDA) and Health Canada.
+
+________________________________________Information Analyst/Programmer
+October 2002 - June 2003 
+Oncor/InSource Group | Dallas, Texas 
+Energy and Utilities
+-Designed and implemented issue tracking database using Microsoft Access/VBA/SQL. Energy delivery customer issues received by either email or phone are logged via the user interface and routing determined by business logic. Upon resolution, the issue was routed back to the point of origin for follow-up with the customer. 
+-Responsible for initial design and usability parameters and adjustments as well as subsequent updates. 
+-Responsible for gathering and collecting requirements through design meetings with managers and users as well as beta testers selected from the user pool. 
+-Provided first-line desktop support for 50 users in the Revenue Management department for all PC issues and network connectivity. 
+
+________________________________________Programming Engineer
+February 2001 - July 2002 
+Presby Corp | Dallas, Texas 
+Medical Devices and Supplies
+-Developed data collection and analysis software used in Federal Drug Administration (FDA) clinical trials. Data was primarily collected via Palm software developed using Satellite Forms (Palm). 
+-Developed an Microsoft Access database to interface with the Palm software. After data was either entered or edited on the Palm, the Palm was synched with the local Access application. The Access database served as the main interface with the data, providing an alternate data editing/entry point and on-site reporting for the clinic. After changes were made to any patient records or each synch with the Palm, a copy of the Access database was transferred via FTP to the corporate web server. These updates were then collected into a single database with all patient records from all clinical trial sites. 
+-Responsible for reporting, charts and data analysis submitted to the FDA as well as being used for medical and investor presentations. 
+-Served as remote desktop support and primary contact for six domestic and international clinical trial sites for PC and Palm issues, software installation and troubleshooting. 
+-Provided desktop and network support for corporate offices.
+-Rewired office network and phone system during office expansion. 
+-Developed Crystal Reports to extract data from Accounting/Inventory system. 
+-Responsible for administering server backup strategies.
+
+________________________________________Data Analyst
+May 2000 - February 2001 
+Bindley Western | Grapevine, Texas 
+Biotechnology/Pharmaceuticals
+-Responsible for developing and automating an on-demand reporting application for pharmaceutical sales and warehouse managers. Data was extracted from AS400 data files into a Microsoft Access database where the business logic was applied and reports generated on demand. 
+-Provided desktop and network support for 75 PCs and 40 AS400 terminals and printers. Responsible for installing software and virus patches, network connectivity, and troubleshooting software and hardware issues. 
+-Maintained and administered office communications equipment. 
+-Responsible for coordinating electrical and networking contractors during office expansion and setup of a website customer registration/support call center. 
+
+________________________________________Developers Customer Support Representative
+October 1999 - May 2000 
+Microsoft/Compuware | Irving, Texas 
+Computer Software
+-Responsible for providing custom development solutions for Microsoft Access customers. Provided troubleshooting and problem resolution for coding issues for users creating custom solutions using Microsoft Access.  
+-Provided software support for Microsoft FrontPage for customers who were building web pages.
+
+________________________________________Programmer
+July 1999 - October 1999 
+PageNet/CIBER | Dallas, Texas 
+Telecommunications Services
+-Created an automated error reporting application monitoring and managing system workflow errors on a newly implemented enterprise management system that integrated Siebel, PeopleSoft, Oracle, and SQL Server. Developed the processes to continually monitor and collect workflow errors from each of the various systems in turn and provide timely updates to management. 
+
+________________________________________Programmer/Analyst/Sales Manager
+May 1994 - July 1999 
+Hyatt Hotels & Resorts | Omaha, Nebraska 
+Hotels and Lodging
+-Created an automated software tracking system with Microsoft Access/SQL for Hyatt’s entire sales history, extracting data from Informix tables, grading each past customer in each of 4 areas of importance: recent activity, revenue, recurrence, and properties. This grading system proved an invaluable tool in determining which groups to target for sales mailings as well as which might be worthy of a national account. 
+-Developed sales contact management system using Microsoft Access/VBA for National Sales Managers. The sales history grading system was integrated into this system for up-to-date grading of each manager’s assigned contacts. The system allowed managers to track sales calls and document contacts and activity reporting, while also monitoring each manager’s contacts and performance. -Utilized Microsoft Access/SQL to produce detailed sales history reports for large corporate customers.
+-Generated sales mailing lists for national sales campaigns based on parameters determined by working with corporate marketing managers and developing requirements and specifications. Geographic location, past meeting locations, and sales history grade were some of the factors used in creating these mailing lists. 
+-Provided basic desktop software and network connectivity support for sales office (35 PCs and 1 server) 
+________________________________________
+EDUCATION
+Bachelor of Science 
+May 1992 
+University of Nebraska-Lincoln
+________________________________________
+LANGUAGES
+English	Fluent
+
